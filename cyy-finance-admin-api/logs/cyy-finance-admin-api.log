@@ -1,0 +1,98 @@
+2024-05-29 14:37:59.546 [main] INFO  com.cyy.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 14896 (D:\财务软件代码\cyy-finance-admin-api\target\classes started by cyy in D:\财务软件代码\cyy-parent)
+2024-05-29 14:37:59.548 [main] DEBUG com.cyy.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-05-29 14:37:59.548 [main] INFO  com.cyy.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-05-29 14:38:00.382 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.cyy]' package. Please check your configuration.
+2024-05-29 14:38:00.748 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-29 14:38:00.748 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-05-29 14:38:00.901 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-29 14:38:03.034 [main] INFO  com.cyy.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 3.905 seconds (JVM running for 5.181)
+2024-05-29 14:39:13.144 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-29 15:16:45.179 [main] INFO  com.cyy.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 16084 (D:\财务软件代码\cyy-finance-admin-api\target\classes started by cyy in D:\财务软件代码\cyy-parent)
+2024-05-29 15:16:45.180 [main] DEBUG com.cyy.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-05-29 15:16:45.181 [main] INFO  com.cyy.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-05-29 15:16:46.236 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.cyy]' package. Please check your configuration.
+2024-05-29 15:16:46.765 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-29 15:16:46.765 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-05-29 15:16:46.957 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-29 15:16:49.646 [main] INFO  com.cyy.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 4.938 seconds (JVM running for 6.445)
+2024-05-29 15:16:52.250 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-29 15:47:15.979 [main] INFO  com.cyy.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 27656 (D:\财务软件代码\cyy-finance-admin-api\target\classes started by cyy in D:\财务软件代码\cyy-parent)
+2024-05-29 15:47:15.981 [main] DEBUG com.cyy.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-05-29 15:47:15.982 [main] INFO  com.cyy.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-05-29 15:47:16.879 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.cyy]' package. Please check your configuration.
+2024-05-29 15:47:17.283 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-29 15:47:17.284 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-05-29 15:47:17.438 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-29 15:47:19.662 [main] INFO  com.cyy.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 4.14 seconds (JVM running for 5.513)
+2024-05-29 15:47:21.193 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-29 15:58:01.357 [main] INFO  com.cyy.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 26280 (D:\财务软件代码\cyy-finance-admin-api\target\classes started by cyy in D:\财务软件代码\cyy-parent)
+2024-05-29 15:58:01.359 [main] DEBUG com.cyy.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-05-29 15:58:01.359 [main] INFO  com.cyy.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-05-29 15:58:02.298 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.cyy]' package. Please check your configuration.
+2024-05-29 15:58:02.724 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-29 15:58:02.724 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-05-29 15:58:02.871 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-29 15:58:05.306 [main] INFO  com.cyy.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 4.379 seconds (JVM running for 5.738)
+2024-05-29 15:58:12.355 [http-nio-8091-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-29 15:58:27.382 [http-nio-8091-exec-4] ERROR c.c.c.e.GlobalExceptionHandler - BindException:
+org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'getBase64CodeForm' on field 'clientId': rejected value [fc7ec3c2c8914483a15-6216435c]; codes [Pattern.getBase64CodeForm.clientId,Pattern.clientId,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [getBase64CodeForm.clientId,clientId]; arguments []; default message [clientId],[Ljavax.validation.constraints.Pattern$Flag;@40976dfb,^[0-9A-Za-z]{6,32}$]; default message [clientId非法]
+	at org.springframework.web.method.annotation.ModelAttributeMethodProcessor.resolveArgument(ModelAttributeMethodProcessor.java:175)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2024-05-29 18:39:47.799 [main] INFO  com.cyy.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 27192 (D:\财务软件代码\cyy-finance-admin-api\target\classes started by cyy in D:\财务软件代码\cyy-parent)
+2024-05-29 18:39:47.800 [main] DEBUG com.cyy.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-05-29 18:39:47.801 [main] INFO  com.cyy.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-05-29 18:39:48.777 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.cyy]' package. Please check your configuration.
+2024-05-29 18:39:49.201 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-29 18:39:49.201 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-05-29 18:39:49.355 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-29 18:39:50.970 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-05-29 18:39:51.050 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-05-29 18:39:52.379 [main] INFO  com.cyy.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 5.079 seconds (JVM running for 6.463)
+2024-05-29 18:40:29.901 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
