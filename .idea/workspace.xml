@@ -1,23 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82e074ac-3aed-477c-a2ad-375f71f64e71" name="变更" comment="" />
+    <list default="true" id="82e074ac-3aed-477c-a2ad-375f71f64e71" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/CountPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/ExampleWhereClausePlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/FieldAttributePlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/GeneratorCommentPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/GetPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/InitModelDefaultValuePlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/InsertBatchPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/InsertSelectiveBatchPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/ListPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/MapperPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/TopOnePlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/UpdateBatchSelectivePlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/UpdateByExampleWhereClausePlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/UpdateFieldBatchPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/generator/plugin/UpdateFieldPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/help/CommonMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/help/Criteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/help/Criterion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-mybatis/src/main/java/com/cyy/mybatis/help/DbField.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2h82acIfoNeSd7AYhcUJAXeN2lM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -27,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716961447449</updated>
       <workItem from="1716961448697" duration="6000" />
+      <workItem from="1717031036582" duration="8000" />
     </task>
     <servers />
   </component>

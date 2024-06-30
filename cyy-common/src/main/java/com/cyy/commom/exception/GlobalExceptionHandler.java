@@ -46,13 +46,12 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
         return new ResponseEntity<>(apiResponse, HttpStatus.INTERNAL_SERVER_ERROR);
     }
 
-/*
-    */
-/**
-     * 业务处理异常
+
+    /**
+     * 图形验证码业务处理异常
      *
      * @return ResponseEntity
-     *//*
+     */
 
     @ExceptionHandler(ParameterException.class)
     public ResponseEntity<ApiResponse<Object>> apiErrorException(ParameterException parameterException) {
@@ -64,12 +63,11 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
         return new ResponseEntity<>(apiResponse, HttpStatus.OK);
     }
 
-    */
-/**
+    /**
      * 业务处理异常
      *
      * @return ResponseEntity<ApiResponse>
-     *//*
+     */
 
     @ExceptionHandler(BizException.class)
     public ResponseEntity<ApiResponse<Object>> apiErrorException(BizException bizException) {
@@ -82,12 +80,12 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
         return new ResponseEntity<>(apiResponse, HttpStatus.INTERNAL_SERVER_ERROR);
     }
 
-    */
-/**
-     * 业务处理异常
+
+    /**
+     * 业务处理异常，登录异常
      *
      * @return ResponseEntity<ApiResponse>
-     *//*
+     */
 
     @ExceptionHandler(LoginException.class)
     public ResponseEntity<ApiResponse<Object>> apiErrorException(LoginException bizException) {
@@ -98,7 +96,7 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
         apiResponse.error(bizException.getCode(), errors);
         return new ResponseEntity<>(apiResponse, HttpStatus.INTERNAL_SERVER_ERROR);
     }
-*/
+
 
     /**
      * BindException异常处理

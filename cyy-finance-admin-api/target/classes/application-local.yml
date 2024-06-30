@@ -31,3 +31,31 @@ spring:
 logging:
   file:
     name: ../${spring.application.name}/logs/cyy-finance-admin-api.log
+
+redisson:
+  address: redis://117.72.42.243:6379
+  password: jichi1234
+
+wx:
+  mp:
+    appid: wxdef3a590f3cbed4a
+    secret: a2ccda129199f6206b39d826be311d29
+    codeExpire: 3600
+    token: 2b6cdc195df211edb28e00163e0f80b5
+    encodingAESKey:
+
+xxl:
+  job:
+    admin:
+      ### 调度中心部署跟地址 [选填]：如调度中心集群部署存在多个地址则用逗号分隔。执行器将会使用该地址进行"执行器心跳注册"和"任务结果回调"；为空则关闭自动注册；
+      addresses: http://localhost:8080/xxl-job-admin
+    ### 执行器通讯TOKEN [选填]：非空时启用；
+    accessToken: e1c717f2-9d58-11ee-a3a0-00155d9bf92e
+
+ali:
+  accessKeyId: 你的阿里云账号accessKeyId
+  accessKeySecret: 你的阿里云账号accessKeySecret
+  sms:
+    enable: true
+    endpoint: dysmsapi.aliyuncs.com
+    region: cn-hangzhou
